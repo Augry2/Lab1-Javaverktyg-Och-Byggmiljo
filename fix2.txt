@@ -66,6 +66,9 @@ git push -u origin master
 Git push origin feature1
 Git push origin feature2
 
+20.
+git tag -a v1.0 (set the message to: Version 1.0)
+git rebase -i HEAD~2 (change the second commit down to squash)
 
 
 
