@@ -1,4 +1,4 @@
-!**/target/*.html
 *.jar
-out/
-target/
+/out/
+/target/
+!target/*.html
