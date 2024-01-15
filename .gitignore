@@ -1,3 +1,4 @@
 *.jar
 /out/
-/target/*.html
+/target/*
+!/target/*.html
